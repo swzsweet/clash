@@ -1,0 +1,2 @@
+hostname = biz.caiyunapp.com
+^https:\/\/biz\.caiyunapp\.com\/v2\/user\?app_name\=weather url script-response-body  https://gitee.com/jexxagn/quan-x/raw/master/rewrite/caiyun_svip.js
