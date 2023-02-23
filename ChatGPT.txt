@@ -1,0 +1,4 @@
+# ChatGPT分流
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,sentry.io
