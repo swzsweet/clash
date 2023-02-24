@@ -1,5 +1,6 @@
 # Clash自用规则
-
+- 自用规则链接
+    - https://raw.githubusercontent.com/swzsweet/clash/main/Clash_Online_Full_Auto.ini
 - 修改至ACL4SSR的配置
     - [https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini](https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini)
 - 分流规则来源
