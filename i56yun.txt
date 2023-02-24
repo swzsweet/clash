@@ -1,4 +1,4 @@
-# ChatGPT分流
+# 公司分流
 payload:
   - DOMAIN-SUFFIX,i56yun.com
   - DOMAIN-SUFFIX,i56yundev.com
