@@ -1,2 +1,3 @@
 MJJ Emby 分流
 DOMAIN-SUFFIX,mjjemby.org
+DOMAIN-SUFFIX,nebula-emby.com
