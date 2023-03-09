@@ -6,4 +6,4 @@ DOMAIN-SUFFIX,devops.develop.i56yun.com
 DOMAIN-SUFFIX,gangxiao2.com
 DOMAIN-SUFFIX,zxcnbm.com
 DOMAIN-SUFFIX,96369.net
-MATCH,i56yundev.com
+DOMAIN-KEYWORD,i56yundev.com
