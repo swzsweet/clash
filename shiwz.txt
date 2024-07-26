@@ -1,3 +1,4 @@
 # 个人网站/服务器分流
 DOMAIN-SUFFIX,shiwz.com
+DOMAIN-SUFFIX,ip8000w.com
 IP-CIDR,18.183.238.15/32,no-resolve
