@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD,bptv.freetv.top
+DOMAIN-KEYWORD,myip.ipip.net
